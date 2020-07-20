@@ -1,4 +1,4 @@
-# ReactStudy
+<h1># ReactStudy<h1>
 <hr>
 React应用架构设计
 https://www.jianshu.com/p/52279380f9f1   
@@ -14,3 +14,6 @@ https://www.jianshu.com/p/3334467e4b32
 <hr>
 redux-saga 实践总结
 https://zhuanlan.zhihu.com/p/23012870
+<hr>
+React中的Redux
+https://www.jianshu.com/p/2c728a70078e
