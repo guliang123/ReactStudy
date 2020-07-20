@@ -12,4 +12,5 @@ https://www.jianshu.com/p/56fc34c6bf0d
 Redux 核心概念
 https://www.jianshu.com/p/3334467e4b32
 <hr>
-
+redux-saga 实践总结
+https://zhuanlan.zhihu.com/p/23012870
