@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1># ReactStudy<h1>
 <hr>
 <h3>React应用架构设计<h3></br>
@@ -18,3 +20,6 @@ https://zhuanlan.zhihu.com/p/23012870
 <hr>
 React中的Redux</br>
 https://www.jianshu.com/p/2c728a70078e
+
+</body>
+  </html>
