@@ -1,7 +1,8 @@
 <h1># ReactStudy<h1>
 <hr>
 <h3>React应用架构设计<h3></br>
-https://www.jianshu.com/p/52279380f9f1   
+  <a href="https://www.jianshu.com/p/52279380f9f1" target="_blank">React应用架构设计</a>
+
 <hr>
 React技术栈+Express+Mongodb实现个人博客</br>
 https://www.jianshu.com/p/e8d68f9e29c6
