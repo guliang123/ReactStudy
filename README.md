@@ -1,6 +1,6 @@
 <h1># ReactStudy<h1>
 <hr>
-React应用架构设计</br>
+<h3>React应用架构设计<h3></br>
 https://www.jianshu.com/p/52279380f9f1   
 <hr>
 React技术栈+Express+Mongodb实现个人博客</br>
